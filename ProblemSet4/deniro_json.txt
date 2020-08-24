@@ -1,0 +1,350 @@
+{
+    "Greetings": {
+        "score": 86,
+        "year": "1968"
+    },
+    "Bloody Mama": {
+        "score": 17,
+        "year": "1970"
+    },
+    "Hi, Mom!": {
+        "score": 73,
+        "year": "1970"
+    },
+    "Born to Win": {
+        "score": 40,
+        "year": "1971"
+    },
+    "Mean Streets": {
+        "score": 98,
+        "year": "1973"
+    },
+    "Bang the Drum Slowly": {
+        "score": 88,
+        "year": "1973"
+    },
+    "The Godfather, Part II": {
+        "score": 97,
+        "year": "1974"
+    },
+    "The Last Tycoon": {
+        "score": 41,
+        "year": "1976"
+    },
+    "Taxi Driver": {
+        "score": 99,
+        "year": "1976"
+    },
+    "1900": {
+        "score": 47,
+        "year": "1977"
+    },
+    "New York, New York": {
+        "score": 67,
+        "year": "1977"
+    },
+    "The Deer Hunter": {
+        "score": 93,
+        "year": "1978"
+    },
+    "Raging Bull": {
+        "score": 97,
+        "year": "1980"
+    },
+    "True Confessions": {
+        "score": 75,
+        "year": "1981"
+    },
+    "The King of Comedy": {
+        "score": 90,
+        "year": "1983"
+    },
+    "Once Upon a Time in America": {
+        "score": 89,
+        "year": "1984"
+    },
+    "Falling in Love": {
+        "score": 60,
+        "year": "1984"
+    },
+    "Brazil": {
+        "score": 98,
+        "year": "1985"
+    },
+    "The Mission": {
+        "score": 65,
+        "year": "1986"
+    },
+    "Dear America: Letters Home From Vietnam": {
+        "score": 100,
+        "year": "1987"
+    },
+    "The Untouchables": {
+        "score": 80,
+        "year": "1987"
+    },
+    "Angel Heart": {
+        "score": 78,
+        "year": "1987"
+    },
+    "Midnight Run": {
+        "score": 96,
+        "year": "1988"
+    },
+    "Jacknife": {
+        "score": 64,
+        "year": "1989"
+    },
+    "We're No Angels": {
+        "score": 47,
+        "year": "1989"
+    },
+    "Awakenings": {
+        "score": 88,
+        "year": "1990"
+    },
+    "Stanley & Iris": {
+        "score": 29,
+        "year": "1990"
+    },
+    "Goodfellas": {
+        "score": 96,
+        "year": "1990"
+    },
+    "Cape Fear": {
+        "score": 76,
+        "year": "1991"
+    },
+    "Mistress": {
+        "score": 69,
+        "year": "1991"
+    },
+    "Guilty by Suspicion": {
+        "score": 65,
+        "year": "1991"
+    },
+    "Backdraft": {
+        "score": 71,
+        "year": "1991"
+    },
+    "Thunderheart": {
+        "score": 87,
+        "year": "1992"
+    },
+    "Night and the City": {
+        "score": 67,
+        "year": "1992"
+    },
+    "This Boy's Life": {
+        "score": 75,
+        "year": "1993"
+    },
+    "Mad Dog and Glory": {
+        "score": 78,
+        "year": "1993"
+    },
+    "A Bronx Tale": {
+        "score": 96,
+        "year": "1993"
+    },
+    "Mary Shelley's Frankenstein": {
+        "score": 39,
+        "year": "1994"
+    },
+    "Casino": {
+        "score": 80,
+        "year": "1995"
+    },
+    "Heat": {
+        "score": 86,
+        "year": "1995"
+    },
+    "Sleepers": {
+        "score": 74,
+        "year": "1996"
+    },
+    "The Fan": {
+        "score": 38,
+        "year": "1996"
+    },
+    "Marvin's Room": {
+        "score": 80,
+        "year": "1996"
+    },
+    "Wag the Dog": {
+        "score": 85,
+        "year": "1997"
+    },
+    "Jackie Brown": {
+        "score": 87,
+        "year": "1997"
+    },
+    "Cop Land": {
+        "score": 72,
+        "year": "1997"
+    },
+    "Ronin": {
+        "score": 68,
+        "year": "1998"
+    },
+    "Great Expectations": {
+        "score": 38,
+        "year": "1998"
+    },
+    "Analyze This": {
+        "score": 69,
+        "year": "1999"
+    },
+    "Flawless": {
+        "score": 43,
+        "year": "1999"
+    },
+    "The Adventures of Rocky & Bullwinkle": {
+        "score": 43,
+        "year": "2000"
+    },
+    "Meet the Parents": {
+        "score": 84,
+        "year": "2000"
+    },
+    "Men of Honor": {
+        "score": 41,
+        "year": "2000"
+    },
+    "The Score": {
+        "score": 73,
+        "year": "2001"
+    },
+    "15 Minutes": {
+        "score": 33,
+        "year": "2001"
+    },
+    "City by the Sea": {
+        "score": 48,
+        "year": "2002"
+    },
+    "Analyze That": {
+        "score": 27,
+        "year": "2002"
+    },
+    "Godsend": {
+        "score": 4,
+        "year": "2003"
+    },
+    "Shark Tale": {
+        "score": 35,
+        "year": "2004"
+    },
+    "Meet the Fockers": {
+        "score": 38,
+        "year": "2004"
+    },
+    "The Bridge of San Luis Rey": {
+        "score": 4,
+        "year": "2005"
+    },
+    "Rent": {
+        "score": 46,
+        "year": "2005"
+    },
+    "Hide and Seek": {
+        "score": 13,
+        "year": "2005"
+    },
+    "The Good Shepherd": {
+        "score": 54,
+        "year": "2006"
+    },
+    "Arthur and the Invisibles": {
+        "score": 21,
+        "year": "2007"
+    },
+    "Captain Shakespeare": {
+        "score": 76,
+        "year": "2007"
+    },
+    "Righteous Kill": {
+        "score": 19,
+        "year": "2008"
+    },
+    "What Just Happened?": {
+        "score": 51,
+        "year": "2008"
+    },
+    "Everybody's Fine": {
+        "score": 46,
+        "year": "2009"
+    },
+    "Machete": {
+        "score": 72,
+        "year": "2010"
+    },
+    "Little Fockers": {
+        "score": 10,
+        "year": "2010"
+    },
+    "Stone": {
+        "score": 50,
+        "year": "2010"
+    },
+    "Killer Elite": {
+        "score": 25,
+        "year": "2011"
+    },
+    "New Year's Eve": {
+        "score": 7,
+        "year": "2011"
+    },
+    "Limitless": {
+        "score": 70,
+        "year": "2011"
+    },
+    "Silver Linings Playbook": {
+        "score": 92,
+        "year": "2012"
+    },
+    "Being Flynn": {
+        "score": 51,
+        "year": "2012"
+    },
+    "Red Lights": {
+        "score": 29,
+        "year": "2012"
+    },
+    "Last Vegas": {
+        "score": 46,
+        "year": "2013"
+    },
+    "The Big Wedding": {
+        "score": 7,
+        "year": "2013"
+    },
+    "Grudge Match": {
+        "score": 29,
+        "year": "2013"
+    },
+    "Killing Season": {
+        "score": 11,
+        "year": "2013"
+    },
+    "The Bag Man": {
+        "score": 9,
+        "year": "2014"
+    },
+    "Joy": {
+        "score": 60,
+        "year": "2015"
+    },
+    "Heist": {
+        "score": 26,
+        "year": "2015"
+    },
+    "The Intern": {
+        "score": 61,
+        "year": "2015"
+    },
+    "Dirty Grandpa": {
+        "score": 11,
+        "year": "2016"
+    }
+}
